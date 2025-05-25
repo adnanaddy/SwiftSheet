@@ -1,0 +1,21 @@
+# Xcode
+DerivedData/
+*.xcuserstate
+xcuserdata/
+*.xccheckout
+*.xcscmblueprint
+
+# Build
+build/
+*.app
+*.ipa
+
+# CocoaPods
+Pods/
+
+# Swift Package Manager
+.swiftpm/
+Package.resolved
+
+# Personal settings
+*.xcworkspace/contents.xcworkspacedata
